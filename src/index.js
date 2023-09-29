@@ -24,7 +24,7 @@ const fetchAndDisplayScores = async () => {
 formElement.addEventListener('submit', addScore);
 refreshButton.addEventListener('click', fetchAndDisplayScores);
 
-/*// app.js
+/* // app.js
 import * as leaderboardModule from './leaderboard.js';
 import * as domModule from './dom.js';
 
@@ -51,7 +51,6 @@ function init() {
 }
 
 init();
-
 
 // app.js
 import * as leaderboardModule from './leaderboard.js';
@@ -82,4 +81,4 @@ async function init() {
   });
 }
 
-init();*/
+init(); */

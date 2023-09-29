@@ -2,9 +2,8 @@ const API_URL = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/
 
 export default API_URL;
 
-
 // api.js
-/*const API_BASE_URL = 'https://api.leaderboardapi.com/v1/games';
+/* const API_BASE_URL = 'https://api.leaderboardapi.com/v1/games';
 const YOUR_GAME_ID = 'your_game_id_here'; // Replace with your actual game ID
 
 export async function getScores() {
@@ -39,4 +38,4 @@ export async function submitScore(player, score) {
     console.error('Error submitting score:', error);
     throw error;
   }
-}*/
+} */

@@ -1,3 +1,5 @@
+import API_URL from './api.js';
+
 const scoreListElement = document.getElementById('scores');
 
 const addScoreToList = async (score) => {

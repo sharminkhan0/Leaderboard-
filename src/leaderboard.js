@@ -1,5 +1,5 @@
 // leaderboard.js
-/*// leaderboard.js
+/* // leaderboard.js
 const leaderboardData = [
   { name: "Player 1", score: 100 },
   { name: "Player 2", score: 20 },
