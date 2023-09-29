@@ -1,3 +1,4 @@
+import './index.css';
 // main.js
 import { getLeaderboard, addEntry } from './leaderboard.js';
 
