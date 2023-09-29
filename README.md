@@ -87,8 +87,8 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [🔗 Live Demo Link](Comming Soon)
-- [🔗 Live Demo Link](Coming Soon)
+- [Live Demo Link](Comming Soon)
+- [Live Demo Link]( https://sharminkhan0.github.io/Leaderboard-/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
