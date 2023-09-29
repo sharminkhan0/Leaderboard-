@@ -1,13 +1,22 @@
-import other from './other';
-import './styles/main.scss';
-import laughing from './assets/laughing.svg';
+// main.js
+import { getLeaderboard, addEntry } from './leaderboard.js';
 
-const laughImg = document.getElementById('laughImg')
-laughgImg.src = laughing
+// Function to display leaderboard in the HTML
+function displayLeaderboard() {
+  const leaderboard = document.getElementById('leaderboard');
+  leaderboard.innerHTML = '';
 
-const jokeBtn = document.getElementById('jokeBtn');
-jokeBtn.addEventListener('click', generateJoke)
+  const leaderboardData = getLeaderboard();
+  leaderboardData.forEach(entry => {
+    const entryElement = document.createElement('div');
+    entryElement.textContent = `${entry.name}: ${entry.score}`;
+    leaderboard.appendChild(entryElement);
+  });
+}
 
+// Initial display of the leaderboard
+displayLeaderboard();
 
-other();
-
+// Example: Adding a new entry
+addEntry("New Player", 95);
+displayLeaderboard();
