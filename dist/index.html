@@ -2,13 +2,70 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leaderboard App</title>
-<script defer src="bundlefec7239760aea0db41f0.js"></script></head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+  <title>LeaderBoard</title>
+  <link rel="stylesheet" href="index.css">
+<script defer src="bundle48bab7656df101791837.js"></script></head>
 <body>
-    <div id="leaderboard">
-        <!-- Leaderboard content will go here -->
+
+  <header class="header-container">
+    <nav class="header-nav">
+      <a href="#" class="logo">LeaderBoard</a>
+      <div id="menu-btn" class="menu-icon fas fa-bars"></div>
+    </nav>
+  </header>
+
+  <main class="main-container home">
+    <div class="main-flex">
+      <section class="score-section">
+        <div class="score-header">
+          <h2>Recent scores</h2>
+
+          <button type="submit" 
+          id="refresh-button" 
+          class="refresh-btn">Refresh</button>
+
+        </div>
+        <div class="scores-container">
+          <ul  id="scores">
+            <li><span>Name</span><span>:100</span></li>
+            <li><span>Name</span><span>:20</span></li>
+            <li><span>Name</span><span>:50</span></li>
+            <li><span>Name</span><span>:78</span></li>
+            <li><span>Name</span><span>:125</span></li>
+            <li><span>Name</span><span>:42</span></li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="submit-section">
+        <form id="form" method="post">
+          <h3>Add your score</h3>
+
+          <input type="text"
+          id="user" 
+          name="player" 
+          required maxlength="50" 
+          placeholder="Your name" 
+          class="input-box">
+
+          <input type="number" 
+          id="scores"
+          name="score" 
+          min="1" 
+          maxlength="7" 
+          placeholder="Your score" 
+          required 
+          class="input-box">
+
+          <button type="submit" 
+          class="submit-btn">Submit</button>
+
+        </form>
+      </section>
     </div>
-    <script type="module" src="./js/index.js"></script>
+  </main>
+  <script src="index.js"></script>
 </body>
 </html>
