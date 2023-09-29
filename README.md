@@ -138,6 +138,7 @@ To run the webpack development server, execute the following command:
 npm start
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHOR -->
 ## 👥 Authors <a name="authors"></a>
 
