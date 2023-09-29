@@ -139,29 +139,65 @@ npm start
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHOR -->
-## 👤 Author <a name="author"></a>
-👤 Uzair Manzoor
-- GitHub: [sharminkhan0](https://github.com/sharminkhan0)
+## 👥 Authors <a name="authors"></a>
+
+
+👤 **Sharmin Akter Khan**
+
+- GitHub: [@githubhandle](https://github.com/sharminkhan0)
+- Twitter: [@twitterhandle](https://twitter.com/SharminAkterKh)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sharmin-akter-khan-62063419b)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FUTURE FEATURES -->
-## 🔮 Future Features <a name="future-features"></a>
-- [📱]  **Mobile Version**
-- [📝] **Add Model**
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] [add more interactive buttons and sections]
+- [ ] [style it beautifully]
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
+
 ## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/sharminkhan0/Leaderboard-/issues).
+
+Feel free to check the [issues page](../../issues/).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- SHOW YOUR SUPPORT -->
-## ⭐️ Show Your Support <a name="show-your-support"></a>
-If you like this project, give it a ⭐️.
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+Please feel free to contribute to this project if you enjoy it, and don't forget to star the repository so that it may be seen by more people.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- ACKNOWLEDGEMENTS -->
-## 🙏 Acknowledgments <a name="acknowledgments"></a>
-I would like to thank Microverse.
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+As well as Freecodecamp and w3school for their useful articles that assisted me in creating this project, I would like to thank Microverse for their innovative approach to teaching me how to code.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+
+
 <!-- LICENSE -->
+
 ## 📝 License <a name="license"></a>
-This project is licensed under the [MIT License](./LICENSE).
+
+This project is MIT licensed.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
