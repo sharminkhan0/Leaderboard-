@@ -7,7 +7,7 @@ function displayLeaderboard() {
   leaderboard.innerHTML = '';
 
   const leaderboardData = getLeaderboard();
-  leaderboardData.forEach(entry => {
+  leaderboardData.forEach((entry) => {
     const entryElement = document.createElement('div');
     entryElement.textContent = `${entry.name}: ${entry.score}`;
     leaderboard.appendChild(entryElement);
@@ -18,5 +18,5 @@ function displayLeaderboard() {
 displayLeaderboard();
 
 // Example: Adding a new entry
-addEntry("New Player", 95);
+addEntry('New Player', 95);
 displayLeaderboard();
