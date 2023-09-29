@@ -81,7 +81,7 @@ For more information on the importance of a professional README for your reposit
 <!-- FEATURES -->
 
 
-### 🔑 Key Features <a name="key-features"></a>
+## 🔑 Key Features <a name="key-features"></a>
 
 - ✨ **Demo of Linters**: Showcase the usage of HTML, CSS, and JavaScript linters to ensure code quality.
 - 🏅 **Demo of Leaderboard**: Implement a leaderboard feature to display and track scores or rankings.
