@@ -3,6 +3,7 @@
   <h1>🏆 Leaderboard</h1>
 </div>
 <!-- TABLE OF CONTENTS -->
+
 # 📖 Table of Contents
 - [About the Project](#about-project)
   - [🛠️ Built With](#built-with)
@@ -23,9 +24,13 @@
   - [⭐️ Show Your Support](#show-your-support)
   - [🙏 Acknowledgments](#acknowledgments)
   - [📝 License](#license)
+ 
+    
 # 📖 About the Project <a name="about-project"></a>
 **Leaderboard** aims to integrate the Leaderboard API service into an application, providing functionality for creating new games, saving scores, and retrieving scores for a game.
+
 ## 🛠️ Built With <a name="built-with"></a>
+
 ### Tech Stack <a name="tech-stack"></a>
 <details>
   <summary>🖥️ Client</summary>
